@@ -1,4 +1,4 @@
-# Logistic_Regression
+# Logistic Regression
 
 ## Author: Alexander Pepe
 
